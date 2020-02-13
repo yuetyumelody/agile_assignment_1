@@ -9,3 +9,6 @@ When I first started on my internship, I had to learn a completely new lanaguge 
 
 ## Comment - Charmaine Chan 
 Just like Melody, I loved how he said building software is a process of discovery. There is so much room for improvement and changes as the project evolves. Thus, the importance of Agile and its methodologies. He says, "The goal is to incorporate healthy doses of customer feedback throughout the development process to get a better sense of where the product is headed and write code in a way that minimizes waste later on." Using the Agile approach, software developers can save time and write code in an more efficient way.
+
+## Comments -- Edmond 
+I agree with Melody that in real life software engineering is about much more than "model answers". The more and more I learn about software development the more I've come to understand that it's about discovery. Although reading a textbook can help I've found that learning and discovering new things on my own has not only been more satisfying but also helps me retain information better than listening to someone else tell me about it. 
